@@ -1,0 +1,10 @@
+a = 100
+b = 50
+sum = a+b
+sub = a-b
+div = a/b
+mul = a*b
+print ("sum = ",sum)
+print ("sub = ",sub)
+print ("div =",div)
+print ("mul =",mul)

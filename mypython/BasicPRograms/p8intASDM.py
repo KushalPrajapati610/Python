@@ -1,0 +1,6 @@
+A=int(input("enter value of A =>"))
+B=int(input("enter value of B =>"))
+print("total sum=",A+B)
+print("total sub=",sub)
+print("total mul=",mul)
+print("total div=",div)
