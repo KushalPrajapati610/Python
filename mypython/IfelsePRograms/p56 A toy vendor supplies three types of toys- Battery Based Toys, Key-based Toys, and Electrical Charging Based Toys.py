@@ -9,24 +9,24 @@ op=int(input("enter the option ="))
 
 if op==1:
     price = int(input("enter the price ="))
-        if price<1000:
-            print("price*0.10")
-        else:
-            print("sorry no discount")
+    if price<1000:
+        print("price*0.10")
+    else:
+        print("sorry no discount")
 
 elif op==2:
     price = int(input("enter the price ="))
-        if price<100:
-            print("price*0.05")
-        else:
-            print("sorry no discount")
+    if price<100:
+        print("price*0.05")
+    else:
+        print("sorry no discount")
 
 elif op==3:
     price = int(input("enter the price ="))
-        if price<500:
-            print("price*0.10")
-        else:
-            print("sorry no discount")
+    if price<500:
+        print("price*0.10")
+    else:
+        print("sorry no discount")
 
 else:
     print("sorry")

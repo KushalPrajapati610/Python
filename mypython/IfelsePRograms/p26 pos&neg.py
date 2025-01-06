@@ -1,4 +1,4 @@
- no=int(input("enter the vlaue of ="))
+no=int(input("enter the vlaue of ="))
 if no>0:
     print("no is positive")
 else:

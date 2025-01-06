@@ -8,5 +8,7 @@
 
 # Expected Output: {11, 22, 33, 44, 55, 66}
 
-set1 = {11, 22, 33, 44, 55}
-print
+no = int(input("Enter the number ="))
+set = {11, 22, 33, 44, 55}
+set.add(no)
+print(set)
